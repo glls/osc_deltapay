@@ -18,3 +18,7 @@ INFORMATION
 The file entry.php is a simulator of the deltapay system for debugging purposes.
 If you use this module, found a bug or have a suggestion send me an email
 or visit my website's forum.
+
+LICENSE
+---------------------------------------------------------------------------------
+GNU General Public License (https://gnu.org/licenses/gpl.html)
